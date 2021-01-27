@@ -1,0 +1,33 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+#member-stats-analytics .inside {
+  padding: 0;
+}
+#member-stats-analytics .main {
+  padding: 0 12px 11px;
+}
+#member-stats-analytics .sub {
+  color: #555d66;
+  background: #f5f5f5;
+  border-top: 1px solid #eee;
+  padding: 10px 12px 6px 12px;
+}
+#member-stats-analytics .sub p {
+  padding-top: 0;
+  padding-bottom: .5em;
+  margin: 0;
+}
+#member-stats-analytics .main ul li {
+  display: flex;
+}
+#member-stats-analytics .main ul li.heading {
+  font-weight: bold;
+}
+#member-stats-analytics .main ul li span {
+  width: 25%;
+}
+#member-stats-analytics .main ul li span:first-child {
+  width: 45%;
+}

@@ -1,0 +1,25 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .progress {
+   background: #FFF;
+   justify-content: flex-start;
+   border-radius: 100px;
+   align-items: center;
+   position: relative;
+   padding: 0 5px;
+   display: flex;
+   height: 22px;
+   width: 500px;
+   margin: 0 auto;
+   max-width: 100%;
+ }
+
+ .progress-value {
+   border-radius: 100px;
+   background: #000;
+   height: 12px;
+   width: 0;
+ }
