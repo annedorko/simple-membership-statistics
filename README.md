@@ -16,7 +16,7 @@ A simple plugin to add membership statistics for the Simple Membership plugin.
 A simple plugin to add membership statistics for the Simple Membership plugin.
 
 - Dashboard widget with overview
-- More detailed
+- More detailed statistics available in the full page under the Simple Membership plugin admin menu
 
 # Functionality & Limitations
 
@@ -30,6 +30,7 @@ This plugin does not currently display free accounts in the overview, but does m
 
 1. Upload the `simple-membership-stats` folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Go to 'Simple Membership > Member Statistics' in the WordPress admin
 
 ## Frequently Asked Questions
 
